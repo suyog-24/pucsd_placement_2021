@@ -1,0 +1,23 @@
+Output For fibonacci -
+Enter the number: 0
+F(n)=0
+
+Enter the number: 12
+F(n)=144
+
+Enter the number: 27
+F(n)=196418
+
+
+Output for Even Fibonacci -
+Enter the number: 0
+F(n)=0
+
+Enter the number: 1
+F(n)=2
+
+Enter the number: 2
+F(n)=8
+
+Enter the number: 3
+F(n)=34
